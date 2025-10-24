@@ -74,4 +74,3 @@ Contributions are welcome! If you want to improve this project:
    git push origin my-feature
    ```
 5. **Open a Pull Request** on the main repository describing your changes.
-Please ensure your code follows the existing style and includes clear descriptions in your commits.
