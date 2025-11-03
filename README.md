@@ -2,7 +2,7 @@
 
 A hybrid music recommendation system that combines constraint-based filtering with content-based similarity to suggest songs based on your preferences.
 
-**Live Demo:** [Song Recommender System](https://songrecommendersystem-production.up.railway.app)
+**Live Demo:** [Song Recommender System]((https://huggingface.co/spaces/KashishM/song_recommender_system)
 
 ---
 
@@ -41,7 +41,7 @@ Uses a Spotify dataset with 10,000 tracks containing:
 - **Backend:** Flask, Python
 - **ML Libraries:** scikit-learn, pandas, numpy
 - **Frontend:** HTML, CSS, JavaScript
-- **Deployment:** Railway
+- **Deployment:** Hugging Face Spaces
 
 ---
 
