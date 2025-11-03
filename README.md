@@ -2,7 +2,7 @@
 
 A hybrid music recommendation system that combines constraint-based filtering with content-based similarity to suggest songs based on your preferences.
 
-**Live Demo:** [Song Recommender System]((https://huggingface.co/spaces/KashishM/song_recommender_system)
+**Live Demo:** [Song Recommender System](https://huggingface.co/spaces/KashishM/song_recommender_system)
 
 ---
 
